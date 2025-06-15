@@ -2,3 +2,5 @@ Nombre: Iran Antonio Chalá González
 Carrera: Ingeniero en Desarrollo y Gestión de Software
 Grupo: 901
 Universidad: Universidad Tecnologíca del Sureste de Veracruz
+Modificación del archivo readme desde la rama main
+otra linea de texto
